@@ -15,3 +15,9 @@ $ ./app 5 ->(para cinco threads)
 $ gcc -o app file -lpthread -rand.c  (si tiene #include "rand.h")
 $ ./app 4
 ~~~
+
+## RUN OPENMP
+~~~
+$ gcc -o app file.c -fopenmp (file es cualquier programa de la carpeta src)
+$ ./app 5 g
+~~~
