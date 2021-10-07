@@ -19,5 +19,5 @@ $ ./app 4
 ## RUN OPENMP
 ~~~
 $ gcc -o app file.c -fopenmp (file es cualquier programa de la carpeta src)
-$ ./app 5 g
+$ ./app 4 100 g
 ~~~
