@@ -1,3 +1,6 @@
+/*****************************
+|> SANCHES YUCRA YHON YERSON
+*****************************/
 #include <iostream>
 #include <time.h>
 #include <stdio.h>
